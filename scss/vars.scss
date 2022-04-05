@@ -1,0 +1,15 @@
+$white:#FFFFFF;
+$blueDark: #2e3280;
+$accent:#7469f0;
+$gray: #5c5c5c;
+
+$black:#000000;
+$blue: #31AFF5;
+
+$darkBlack: #21242A;
+
+%openBlock {
+    z-index: 4;
+    opacity: 1;
+    transition: 0.5s;
+}
